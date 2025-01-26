@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "estacao-geometrica-esp32",
+          "appId": "1:503869843350:android:56cd40e56f5a0b07e8dfb7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "estacao-geometrica-esp32",
+          "configurations": {
+            "android": "1:503869843350:android:56cd40e56f5a0b07e8dfb7",
+            "web": "1:503869843350:web:0503c9f992b7f095e8dfb7"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

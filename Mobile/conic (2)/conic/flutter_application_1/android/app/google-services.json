@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "503869843350",
+    "firebase_url": "https://estacao-geometrica-esp32-default-rtdb.firebaseio.com",
+    "project_id": "estacao-geometrica-esp32",
+    "storage_bucket": "estacao-geometrica-esp32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503869843350:android:63dd3cefbadc41e2e8dfb7",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJrOU_-CpG5B6A3oyOBqXCRSbzVY487M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503869843350:android:56cd40e56f5a0b07e8dfb7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJrOU_-CpG5B6A3oyOBqXCRSbzVY487M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
